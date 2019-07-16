@@ -8,20 +8,38 @@
 
 /* Begin PBXBuildFile section */
 		04C37D3E22D7E81E00A1FA3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D3D22D7E81E00A1FA3C /* AppDelegate.swift */; };
-		04C37D4022D7E81E00A1FA3C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D3F22D7E81E00A1FA3C /* ViewController.swift */; };
+		04C37D4022D7E81E00A1FA3C /* SelectPersonVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D3F22D7E81E00A1FA3C /* SelectPersonVC.swift */; };
 		04C37D4322D7E81E00A1FA3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C37D4122D7E81E00A1FA3C /* Main.storyboard */; };
 		04C37D4522D7E81F00A1FA3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04C37D4422D7E81F00A1FA3C /* Assets.xcassets */; };
 		04C37D4822D7E81F00A1FA3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C37D4622D7E81F00A1FA3C /* LaunchScreen.storyboard */; };
+		04C37D5522D92C6300A1FA3C /* Starjedi.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04C37D5222D92C6300A1FA3C /* Starjedi.ttf */; };
+		04C37D5622D92C6300A1FA3C /* Starjhol.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04C37D5322D92C6300A1FA3C /* Starjhol.ttf */; };
+		04C37D5722D92C6300A1FA3C /* Starjout.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04C37D5422D92C6300A1FA3C /* Starjout.ttf */; };
+		04C37D5E22D93AFA00A1FA3C /* BlackBgView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D5D22D93AFA00A1FA3C /* BlackBgView.swift */; };
+		04C37D6122D93C2F00A1FA3C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D6022D93C2F00A1FA3C /* Constants.swift */; };
+		04C37D6422D940AC00A1FA3C /* PersonApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D6322D940AC00A1FA3C /* PersonApi.swift */; };
+		04C37D6622DA754200A1FA3C /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D6522DA754200A1FA3C /* Person.swift */; };
+		75FB65E39AD16B2F42A63290 /* Pods_StarWarChallengeAlpha.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6679128871123CFDD335634F /* Pods_StarWarChallengeAlpha.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		04C37D3A22D7E81E00A1FA3C /* StarWarChallengeAlpha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StarWarChallengeAlpha.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C37D3D22D7E81E00A1FA3C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		04C37D3F22D7E81E00A1FA3C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		04C37D3F22D7E81E00A1FA3C /* SelectPersonVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectPersonVC.swift; sourceTree = "<group>"; };
 		04C37D4222D7E81E00A1FA3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		04C37D4422D7E81F00A1FA3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04C37D4722D7E81F00A1FA3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04C37D4922D7E81F00A1FA3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04C37D5222D92C6300A1FA3C /* Starjedi.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Starjedi.ttf; sourceTree = "<group>"; };
+		04C37D5322D92C6300A1FA3C /* Starjhol.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Starjhol.ttf; sourceTree = "<group>"; };
+		04C37D5422D92C6300A1FA3C /* Starjout.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Starjout.ttf; sourceTree = "<group>"; };
+		04C37D5D22D93AFA00A1FA3C /* BlackBgView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackBgView.swift; sourceTree = "<group>"; };
+		04C37D6022D93C2F00A1FA3C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		04C37D6322D940AC00A1FA3C /* PersonApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonApi.swift; sourceTree = "<group>"; };
+		04C37D6522DA754200A1FA3C /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		6679128871123CFDD335634F /* Pods_StarWarChallengeAlpha.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StarWarChallengeAlpha.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6D5EB233DD436691FDB2A6E0 /* Pods-StarWarChallengeAlpha.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StarWarChallengeAlpha.release.xcconfig"; path = "Pods/Target Support Files/Pods-StarWarChallengeAlpha/Pods-StarWarChallengeAlpha.release.xcconfig"; sourceTree = "<group>"; };
+		897FFD9F7AE787C5B4CE39E7 /* Pods-StarWarChallengeAlpha.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StarWarChallengeAlpha.debug.xcconfig"; path = "Pods/Target Support Files/Pods-StarWarChallengeAlpha/Pods-StarWarChallengeAlpha.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +47,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75FB65E39AD16B2F42A63290 /* Pods_StarWarChallengeAlpha.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +59,8 @@
 			children = (
 				04C37D3C22D7E81E00A1FA3C /* StarWarChallengeAlpha */,
 				04C37D3B22D7E81E00A1FA3C /* Products */,
+				AFFC19445005F7E971690A85 /* Pods */,
+				DBB556CD29F15EE0831B65FB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +75,94 @@
 		04C37D3C22D7E81E00A1FA3C /* StarWarChallengeAlpha */ = {
 			isa = PBXGroup;
 			children = (
+				04C37D6222D9406500A1FA3C /* Services */,
+				04C37D5F22D93C0500A1FA3C /* Utils */,
+				04C37D5C22D9315200A1FA3C /* Views */,
+				04C37D5B22D9314B00A1FA3C /* Models */,
+				04C37D5A22D9313F00A1FA3C /* Controllers */,
+				04C37D5922D92C9000A1FA3C /* Resources */,
 				04C37D3D22D7E81E00A1FA3C /* AppDelegate.swift */,
-				04C37D3F22D7E81E00A1FA3C /* ViewController.swift */,
+				04C37D3F22D7E81E00A1FA3C /* SelectPersonVC.swift */,
 				04C37D4122D7E81E00A1FA3C /* Main.storyboard */,
 				04C37D4422D7E81F00A1FA3C /* Assets.xcassets */,
 				04C37D4622D7E81F00A1FA3C /* LaunchScreen.storyboard */,
 				04C37D4922D7E81F00A1FA3C /* Info.plist */,
 			);
 			path = StarWarChallengeAlpha;
+			sourceTree = "<group>";
+		};
+		04C37D5822D92C7A00A1FA3C /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				04C37D5222D92C6300A1FA3C /* Starjedi.ttf */,
+				04C37D5322D92C6300A1FA3C /* Starjhol.ttf */,
+				04C37D5422D92C6300A1FA3C /* Starjout.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		04C37D5922D92C9000A1FA3C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				04C37D5822D92C7A00A1FA3C /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		04C37D5A22D9313F00A1FA3C /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		04C37D5B22D9314B00A1FA3C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				04C37D6522DA754200A1FA3C /* Person.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		04C37D5C22D9315200A1FA3C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				04C37D5D22D93AFA00A1FA3C /* BlackBgView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		04C37D5F22D93C0500A1FA3C /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				04C37D6022D93C2F00A1FA3C /* Constants.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		04C37D6222D9406500A1FA3C /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				04C37D6322D940AC00A1FA3C /* PersonApi.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		AFFC19445005F7E971690A85 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				897FFD9F7AE787C5B4CE39E7 /* Pods-StarWarChallengeAlpha.debug.xcconfig */,
+				6D5EB233DD436691FDB2A6E0 /* Pods-StarWarChallengeAlpha.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		DBB556CD29F15EE0831B65FB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6679128871123CFDD335634F /* Pods_StarWarChallengeAlpha.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +172,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04C37D4C22D7E81F00A1FA3C /* Build configuration list for PBXNativeTarget "StarWarChallengeAlpha" */;
 			buildPhases = (
+				21F4C2E47F70F409603C007B /* [CP] Check Pods Manifest.lock */,
 				04C37D3622D7E81E00A1FA3C /* Sources */,
 				04C37D3722D7E81E00A1FA3C /* Frameworks */,
 				04C37D3822D7E81E00A1FA3C /* Resources */,
+				E2FFFA6D6E6BABAAAC173E20 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -124,19 +227,75 @@
 			files = (
 				04C37D4822D7E81F00A1FA3C /* LaunchScreen.storyboard in Resources */,
 				04C37D4522D7E81F00A1FA3C /* Assets.xcassets in Resources */,
+				04C37D5522D92C6300A1FA3C /* Starjedi.ttf in Resources */,
+				04C37D5622D92C6300A1FA3C /* Starjhol.ttf in Resources */,
+				04C37D5722D92C6300A1FA3C /* Starjout.ttf in Resources */,
 				04C37D4322D7E81E00A1FA3C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		21F4C2E47F70F409603C007B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-StarWarChallengeAlpha-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E2FFFA6D6E6BABAAAC173E20 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-StarWarChallengeAlpha/Pods-StarWarChallengeAlpha-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-StarWarChallengeAlpha/Pods-StarWarChallengeAlpha-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		04C37D3622D7E81E00A1FA3C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04C37D4022D7E81E00A1FA3C /* ViewController.swift in Sources */,
+				04C37D6622DA754200A1FA3C /* Person.swift in Sources */,
+				04C37D4022D7E81E00A1FA3C /* SelectPersonVC.swift in Sources */,
 				04C37D3E22D7E81E00A1FA3C /* AppDelegate.swift in Sources */,
+				04C37D5E22D93AFA00A1FA3C /* BlackBgView.swift in Sources */,
+				04C37D6422D940AC00A1FA3C /* PersonApi.swift in Sources */,
+				04C37D6122D93C2F00A1FA3C /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +439,7 @@
 		};
 		04C37D4D22D7E81F00A1FA3C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 897FFD9F7AE787C5B4CE39E7 /* Pods-StarWarChallengeAlpha.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -298,6 +458,7 @@
 		};
 		04C37D4E22D7E81F00A1FA3C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6D5EB233DD436691FDB2A6E0 /* Pods-StarWarChallengeAlpha.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
