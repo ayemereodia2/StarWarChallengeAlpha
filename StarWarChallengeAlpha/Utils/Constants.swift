@@ -15,3 +15,7 @@ let BASE_ULR = "https://swapi.co/api/"
 let PEOPLE_URL = BASE_ULR + "people/"
 
 typealias personReturnCompletion = (Person?)->()
+typealias homeWorldCompletion = (HomeWorld?)->()
+typealias vehiclesCompletion = (Vehicles?)->()
+typealias starShipCompletion = (StarShip?)->()
+typealias filmCollection = (Films?)->()

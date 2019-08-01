@@ -19,6 +19,19 @@
 		04C37D6122D93C2F00A1FA3C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D6022D93C2F00A1FA3C /* Constants.swift */; };
 		04C37D6422D940AC00A1FA3C /* PersonApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D6322D940AC00A1FA3C /* PersonApi.swift */; };
 		04C37D6622DA754200A1FA3C /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D6522DA754200A1FA3C /* Person.swift */; };
+		04C37D6822E3CD1100A1FA3C /* FadeEnabledButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D6722E3CD1100A1FA3C /* FadeEnabledButton.swift */; };
+		04C37D6D22E3D3A200A1FA3C /* HomeWorldVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D6C22E3D3A200A1FA3C /* HomeWorldVC.swift */; };
+		04C37D6F22E3D3C600A1FA3C /* VehiclesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D6E22E3D3C600A1FA3C /* VehiclesVC.swift */; };
+		04C37D7122E3D3D900A1FA3C /* StarShipsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D7022E3D3D900A1FA3C /* StarShipsVC.swift */; };
+		04C37D7322E3D3E800A1FA3C /* FilmsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D7222E3D3E800A1FA3C /* FilmsVC.swift */; };
+		04C37D7522E4C92C00A1FA3C /* HomeWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D7422E4C92C00A1FA3C /* HomeWorld.swift */; };
+		04C37D7722E4C99B00A1FA3C /* HomeWorldApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D7622E4C99B00A1FA3C /* HomeWorldApi.swift */; };
+		04C37D7922E634BB00A1FA3C /* Vehicles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D7822E634BB00A1FA3C /* Vehicles.swift */; };
+		04C37D7B22E644D100A1FA3C /* VehiclesApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C37D7A22E644D100A1FA3C /* VehiclesApi.swift */; };
+		04EAB48D22F0E5CA00FC8DE5 /* Films.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EAB48C22F0E5CA00FC8DE5 /* Films.swift */; };
+		04EAB48F22F0E5DF00FC8DE5 /* FilmsApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EAB48E22F0E5DF00FC8DE5 /* FilmsApi.swift */; };
+		04FB5D9B22ECCFDC00B85908 /* StarShip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FB5D9A22ECCFDC00B85908 /* StarShip.swift */; };
+		04FB5D9D22ECD5C100B85908 /* StarShipApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FB5D9C22ECD5C100B85908 /* StarShipApi.swift */; };
 		75FB65E39AD16B2F42A63290 /* Pods_StarWarChallengeAlpha.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6679128871123CFDD335634F /* Pods_StarWarChallengeAlpha.framework */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +50,19 @@
 		04C37D6022D93C2F00A1FA3C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		04C37D6322D940AC00A1FA3C /* PersonApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonApi.swift; sourceTree = "<group>"; };
 		04C37D6522DA754200A1FA3C /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		04C37D6722E3CD1100A1FA3C /* FadeEnabledButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FadeEnabledButton.swift; sourceTree = "<group>"; };
+		04C37D6C22E3D3A200A1FA3C /* HomeWorldVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWorldVC.swift; sourceTree = "<group>"; };
+		04C37D6E22E3D3C600A1FA3C /* VehiclesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehiclesVC.swift; sourceTree = "<group>"; };
+		04C37D7022E3D3D900A1FA3C /* StarShipsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarShipsVC.swift; sourceTree = "<group>"; };
+		04C37D7222E3D3E800A1FA3C /* FilmsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmsVC.swift; sourceTree = "<group>"; };
+		04C37D7422E4C92C00A1FA3C /* HomeWorld.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWorld.swift; sourceTree = "<group>"; };
+		04C37D7622E4C99B00A1FA3C /* HomeWorldApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWorldApi.swift; sourceTree = "<group>"; };
+		04C37D7822E634BB00A1FA3C /* Vehicles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vehicles.swift; sourceTree = "<group>"; };
+		04C37D7A22E644D100A1FA3C /* VehiclesApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehiclesApi.swift; sourceTree = "<group>"; };
+		04EAB48C22F0E5CA00FC8DE5 /* Films.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Films.swift; sourceTree = "<group>"; };
+		04EAB48E22F0E5DF00FC8DE5 /* FilmsApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmsApi.swift; sourceTree = "<group>"; };
+		04FB5D9A22ECCFDC00B85908 /* StarShip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarShip.swift; sourceTree = "<group>"; };
+		04FB5D9C22ECD5C100B85908 /* StarShipApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarShipApi.swift; sourceTree = "<group>"; };
 		6679128871123CFDD335634F /* Pods_StarWarChallengeAlpha.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StarWarChallengeAlpha.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D5EB233DD436691FDB2A6E0 /* Pods-StarWarChallengeAlpha.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StarWarChallengeAlpha.release.xcconfig"; path = "Pods/Target Support Files/Pods-StarWarChallengeAlpha/Pods-StarWarChallengeAlpha.release.xcconfig"; sourceTree = "<group>"; };
 		897FFD9F7AE787C5B4CE39E7 /* Pods-StarWarChallengeAlpha.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StarWarChallengeAlpha.debug.xcconfig"; path = "Pods/Target Support Files/Pods-StarWarChallengeAlpha/Pods-StarWarChallengeAlpha.debug.xcconfig"; sourceTree = "<group>"; };
@@ -82,7 +108,6 @@
 				04C37D5A22D9313F00A1FA3C /* Controllers */,
 				04C37D5922D92C9000A1FA3C /* Resources */,
 				04C37D3D22D7E81E00A1FA3C /* AppDelegate.swift */,
-				04C37D3F22D7E81E00A1FA3C /* SelectPersonVC.swift */,
 				04C37D4122D7E81E00A1FA3C /* Main.storyboard */,
 				04C37D4422D7E81F00A1FA3C /* Assets.xcassets */,
 				04C37D4622D7E81F00A1FA3C /* LaunchScreen.storyboard */,
@@ -112,6 +137,11 @@
 		04C37D5A22D9313F00A1FA3C /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				04C37D3F22D7E81E00A1FA3C /* SelectPersonVC.swift */,
+				04C37D6C22E3D3A200A1FA3C /* HomeWorldVC.swift */,
+				04C37D6E22E3D3C600A1FA3C /* VehiclesVC.swift */,
+				04C37D7022E3D3D900A1FA3C /* StarShipsVC.swift */,
+				04C37D7222E3D3E800A1FA3C /* FilmsVC.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -120,6 +150,10 @@
 			isa = PBXGroup;
 			children = (
 				04C37D6522DA754200A1FA3C /* Person.swift */,
+				04C37D7422E4C92C00A1FA3C /* HomeWorld.swift */,
+				04C37D7822E634BB00A1FA3C /* Vehicles.swift */,
+				04FB5D9A22ECCFDC00B85908 /* StarShip.swift */,
+				04EAB48C22F0E5CA00FC8DE5 /* Films.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -128,6 +162,7 @@
 			isa = PBXGroup;
 			children = (
 				04C37D5D22D93AFA00A1FA3C /* BlackBgView.swift */,
+				04C37D6722E3CD1100A1FA3C /* FadeEnabledButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -144,6 +179,10 @@
 			isa = PBXGroup;
 			children = (
 				04C37D6322D940AC00A1FA3C /* PersonApi.swift */,
+				04C37D7622E4C99B00A1FA3C /* HomeWorldApi.swift */,
+				04C37D7A22E644D100A1FA3C /* VehiclesApi.swift */,
+				04FB5D9C22ECD5C100B85908 /* StarShipApi.swift */,
+				04EAB48E22F0E5DF00FC8DE5 /* FilmsApi.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -199,6 +238,7 @@
 				TargetAttributes = {
 					04C37D3922D7E81E00A1FA3C = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1010;
 					};
 				};
 			};
@@ -291,11 +331,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				04C37D6622DA754200A1FA3C /* Person.swift in Sources */,
+				04C37D6822E3CD1100A1FA3C /* FadeEnabledButton.swift in Sources */,
+				04C37D6F22E3D3C600A1FA3C /* VehiclesVC.swift in Sources */,
+				04C37D7722E4C99B00A1FA3C /* HomeWorldApi.swift in Sources */,
 				04C37D4022D7E81E00A1FA3C /* SelectPersonVC.swift in Sources */,
 				04C37D3E22D7E81E00A1FA3C /* AppDelegate.swift in Sources */,
 				04C37D5E22D93AFA00A1FA3C /* BlackBgView.swift in Sources */,
+				04FB5D9D22ECD5C100B85908 /* StarShipApi.swift in Sources */,
+				04FB5D9B22ECCFDC00B85908 /* StarShip.swift in Sources */,
 				04C37D6422D940AC00A1FA3C /* PersonApi.swift in Sources */,
+				04C37D7B22E644D100A1FA3C /* VehiclesApi.swift in Sources */,
+				04C37D6D22E3D3A200A1FA3C /* HomeWorldVC.swift in Sources */,
+				04EAB48F22F0E5DF00FC8DE5 /* FilmsApi.swift in Sources */,
+				04C37D7322E3D3E800A1FA3C /* FilmsVC.swift in Sources */,
+				04EAB48D22F0E5CA00FC8DE5 /* Films.swift in Sources */,
+				04C37D7122E3D3D900A1FA3C /* StarShipsVC.swift in Sources */,
 				04C37D6122D93C2F00A1FA3C /* Constants.swift in Sources */,
+				04C37D7922E634BB00A1FA3C /* Vehicles.swift in Sources */,
+				04C37D7522E4C92C00A1FA3C /* HomeWorld.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -379,6 +432,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -433,6 +487,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 4.2;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -442,6 +497,7 @@
 			baseConfigurationReference = 897FFD9F7AE787C5B4CE39E7 /* Pods-StarWarChallengeAlpha.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = LB5YMG5W6W;
 				INFOPLIST_FILE = StarWarChallengeAlpha/Info.plist;
@@ -451,6 +507,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = wox1.StarWarChallengeAlpha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -461,6 +518,7 @@
 			baseConfigurationReference = 6D5EB233DD436691FDB2A6E0 /* Pods-StarWarChallengeAlpha.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = LB5YMG5W6W;
 				INFOPLIST_FILE = StarWarChallengeAlpha/Info.plist;
